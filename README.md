@@ -8,3 +8,11 @@ In this project, I will predict whether the first stage of the SpaceX Falcon 9 r
 - [Webscraping](https://github.com/kellibelcher/IBM-Data-Science-Capstone-2/blob/master/Week%201%20Lab:%20Webscraping.ipynb)
 - [Data wrangling](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%202:%20Data%20Wrangling.ipynb) 
 - [Eploratory data analysis with SQL](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%203:%20SQL%20EDA.ipynb)
+
+
+
+
+
+
+
+![ibm](https://media.designrush.com/inspiration_images/134929/conversions/_1512513081_152_ibm-mobile.jpg)
