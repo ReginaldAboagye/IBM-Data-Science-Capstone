@@ -1,4 +1,4 @@
-# Predicting the Propensity of a Rocket Launch Success
+# SpaceX Rocket Landing Predictive Analysis
 ## Background
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of $62 million, while other providers cost upward of $165 million each. Much of Falcon 9's savings is because SpaceX can reuse the first stage. Therefore, if we can accurately predict the likelihood of a rocket landing's success in the first stage, we can determine the cost of a launch. 
 
