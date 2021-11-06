@@ -1,7 +1,7 @@
 ## Background
-SpaceX advertises Falcon 9 rocket launches on its website, with a cost of $62 million, while other providers cost upward of $165 million each. Much of the Falcon 9's savings is because SpaceX can reuse the first stage. Therefore, if we can accurately predict the likelihood of a rocket landing's first stage successfully, we can determine the cost of a launch. 
+SpaceX advertises Falcon 9 rocket launches on its website with a cost of $62 million, while other providers cost upward of $165 million each. Much of Falcon 9's savings is because SpaceX can reuse the first stage. Therefore, if we can accurately predict the likelihood of a rocket landing's success in the first stage, we can determine the cost of a launch. 
 
-In this project, I'll predict whether the first stage of the SpaceX Falcon 9 rocket will land successfully to help competitors make more informed bids against SpaceX for a rocket launch.
+In this project, I'll predict whether the first stage of the SpaceX Falcon 9 rocket will land successfully to help competitors make more informed bids for a rocket launch.
 
 ## Table of Contents
 ### [Data Collection](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Week%201%20Lab:%20Spacex%20Data%20Collection.ipynb) and [Webscraping](https://github.com/kellibelcher/IBM-Data-Science-Capstone-2/blob/master/Week%201%20Lab:%20Webscraping.ipynb)
