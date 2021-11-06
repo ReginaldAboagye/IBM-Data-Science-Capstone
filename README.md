@@ -8,7 +8,7 @@ In this project, I will predict whether the first stage of the SpaceX Falcon 9 r
 ## Table of Contents
 ### [Data Collection](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Week%201%20Lab:%20Spacex%20Data%20Collection.ipynb) and [Webscraping](https://github.com/kellibelcher/IBM-Data-Science-Capstone-2/blob/master/Week%201%20Lab:%20Webscraping.ipynb)
 - Collected SpaceX data using a REST API
-- Scraped additional rocket launch data using Python's BeautifulSoup package
+- Scraped additional rocket launch data from the web using Python's BeautifulSoup package
 
 ### [Data Wrangling](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%202:%20Data%20Wrangling.ipynb)
 - Preprocessed and cleaned the data to begin data exploration 
