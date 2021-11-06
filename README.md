@@ -9,7 +9,7 @@ In this project, I will predict whether the first stage of the SpaceX Falcon 9 r
 - Scraped additional rocket launch data from the web using Python's BeautifulSoup package.
 
 ### [Data Wrangling](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%202:%20Data%20Wrangling.ipynb)
-- Preprocessed and cleaned the data to begin data exploration.
+- Preprocessed and cleaned the data set to begin data exploration.
 
 ### [Exploratory Data Analysis with SQL](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%203:%20SQL%20EDA.ipynb)
 - Utilized Python's SQL extension to connect Jupyter notebook to IBM's DB2 cloud database.
