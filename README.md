@@ -16,7 +16,7 @@ In this project, I will predict whether the first stage of the SpaceX Falcon 9 r
 - Wrote SQL queries to explore and summarize the data.
 
 ### [Data Visualization EDA](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%204:%20EDA%20Data%20viz.ipynb)
-- Explored the relationships between different features in the data set using a variety Seaborn graphs.
+- Explored the relationships between different features in the data set using a variety of Seaborn graphs.
 
 
 
