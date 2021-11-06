@@ -20,7 +20,7 @@ In this project, I'll predict whether the first stage of the SpaceX Falcon 9 roc
 - Explored the relationships between different features in the data set using a variety of Seaborn graphs.
 
 ### [Geospatial Analysis using Folium](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%205:%20Mapping%20launch%20site%20locations.ipynb)
-- Analyzed existing launch site locations using interactive folium leaflet maps
+- Analyzed existing launch site locations using folium's interactive leaflet maps
 
 
 
