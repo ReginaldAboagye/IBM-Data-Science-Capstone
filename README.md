@@ -20,7 +20,7 @@ In this project, I'll predict whether the first stage of the SpaceX Falcon 9 roc
 - Explored the relationships between different features in the data set using `matplotlib` and `seaborn` graphs.
 
 ### [Geospatial Analysis using Folium](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%205:%20Mapping%20launch%20site%20locations.ipynb)
-- Analyzed existing launch site locations using `folium` and created interactive leaflet maps to identify geographical patterns in the data.
+- Analyzed existing launch site locations and created interactive leaflet maps using `folium`.
 
 
 
