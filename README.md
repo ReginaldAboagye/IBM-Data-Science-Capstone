@@ -14,7 +14,7 @@ In this project, I'll predict whether the first stage of the SpaceX Falcon 9 roc
 
 ### [Exploratory Data Analysis with SQL](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%203:%20SQL%20EDA.ipynb)
 - Utilized Python's SQL extension to connect Jupyter notebook to IBM's DB2 cloud database.
-- Wrote SQL queries to explore and summarize the data.
+- Wrote SQL queries to explore, summarize, and gain insights from the data.
 
 ### [Data Visualization EDA](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%204:%20EDA%20Data%20viz.ipynb)
 - Explored the relationships between different features in the data set using `matplotlib` and `seaborn` graphs.
