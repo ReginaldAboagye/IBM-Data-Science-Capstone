@@ -8,7 +8,7 @@ In this project, I'll collect and process raw data from a variety of sources, ex
 ## Table of Contents
 ### [Data Collection](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Week%201%20Lab:%20Spacex%20Data%20Collection.ipynb) and [Webscraping](https://github.com/kellibelcher/IBM-Data-Science-Capstone-2/blob/master/Week%201%20Lab:%20Webscraping.ipynb)
 - Collected launch data using the SpaceX REST API.
-- Scraped additional data from related websites and wikis using Python's `BeautifulSoup` package.
+- Scraped additional data from the web using Python's `BeautifulSoup` package.
 
 ### [Data Wrangling](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%202:%20Data%20Wrangling.ipynb)
 - Preprocessed and cleaned the data set to begin data exploration.
