@@ -26,7 +26,8 @@ In this project, I'll collect and process raw data from a variety of sources, ex
 ### [Launch Success Rate Dashboard](http://spacexdashappkellibelcher.pythonanywhere.com/)
 - Developed an interactive Plotly Dash app to analyze success rates based on launch site location and payload weight.
 
-
+### [Predictive Modeling]()
+- Tested different machine learning models, including Support Vector Machines, Logistic Regression, Decision Trees, and K-Nearest Neighbors, to predict whether the first stage of a rocket launch will land successfully.
 
 
 
