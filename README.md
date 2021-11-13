@@ -32,3 +32,5 @@ In this project, I'll collect and process raw data from a variety of sources, ex
 
 
 ![ibm](https://media.designrush.com/inspiration_images/134929/conversions/_1512513081_152_ibm-mobile.jpg)
+![image](https://user-images.githubusercontent.com/84945664/141658154-2e50743e-7f2f-48b1-9cad-3d3f85597989.png)
+
