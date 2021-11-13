@@ -30,8 +30,8 @@ In this project, I'll collect and process raw data from a variety of sources, ex
 - Tested different machine learning models, including Support Vector Machines, Logistic Regression, Decision Trees, and K-Nearest Neighbors, to predict whether the first stage of a rocket launch will land successfully.
 
 
+
+
 ![Picture1](https://user-images.githubusercontent.com/84945664/141658357-3d2fc5a0-6868-4343-8db5-bf392d182788.jpg)
-
-
 ![ibm](https://media.designrush.com/inspiration_images/134929/conversions/_1512513081_152_ibm-mobile.jpg)
 
