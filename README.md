@@ -29,8 +29,11 @@ In this project, I'll collect and process raw data from a variety of sources, ex
 ### [Predictive Modeling](https://www.kaggle.com/kellibelcher/spacex-rocket-landing-predictive-analysis)
 - Tested different machine learning models, including Support Vector Machines, Logistic Regression, Decision Trees, and K-Nearest Neighbors, to predict whether the first stage of a rocket launch will land successfully.
 
-<br/>
+</br>
 
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing\_1.gif)
-![ibm](https://media.designrush.com/inspiration_images/134929/conversions/_1512513081_152_ibm-mobile.jpg)
+<p align="center">
+  <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing_1.gif" />
+  <img src="https://media.designrush.com/inspiration_images/134929/conversions/_1512513081_152_ibm-mobile.jpg"/>
+</p>
+
 
