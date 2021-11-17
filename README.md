@@ -18,7 +18,7 @@ In this project, I'll collect and process raw data from a variety of sources, ex
 - Wrote SQL queries to explore, summarize, and gain insights from the data.
 
 ### [Data Visualization EDA](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%204:%20EDA%20Data%20viz.ipynb)
-- Explored the relationships between different features in the data set using `matplotlib` and `seaborn` graphs.
+- Explored the relationships between different sets of features in the data set using `matplotlib` and `seaborn` graphs.
 
 ### [Geospatial Analysis using Folium](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%205:%20Mapping%20launch%20site%20locations.ipynb)
 - Created interactive leaflet maps using `folium` and analyzed existing launch site locations to identify geographical trends in the data.
@@ -29,6 +29,7 @@ In this project, I'll collect and process raw data from a variety of sources, ex
 ### [Predictive Modeling](https://www.kaggle.com/kellibelcher/spacex-rocket-landing-predictive-analysis)
 - Tested different machine learning models, including Support Vector Machines, Logistic Regression, Decision Trees, and K-Nearest Neighbors, to predict whether the first stage of a rocket launch will land successfully.
 
+<br/>
 
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing\_1.gif)
 ![ibm](https://media.designrush.com/inspiration_images/134929/conversions/_1512513081_152_ibm-mobile.jpg)
