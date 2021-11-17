@@ -23,11 +23,12 @@ In this project, I'll collect and process raw data from a variety of sources, ex
 ### [Geospatial Analysis using Folium](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%205:%20Mapping%20launch%20site%20locations.ipynb)
 - Created interactive leaflet maps using `folium` and analyzed existing launch site locations to identify geographical trends in the data.
 
-### [Launch Outcome Analysis Dashboard](http://spacexdashappkellibelcher.pythonanywhere.com/)
+### [Launch Outcome Success Rate Dashboard](http://spacexdashappkellibelcher.pythonanywhere.com/)
 - Developed an interactive Plotly Dash app to analyze success rates based on launch site location and payload weight.
 
 ### [Predictive Modeling](https://www.kaggle.com/kellibelcher/spacex-rocket-landing-predictive-analysis)
-- Tested different machine learning models, including Support Vector Machines, Logistic Regression, Decision Trees, and K-Nearest Neighbors, to predict whether the first stage of a rocket launch will land successfully.
+- Fit several classification models, including a Support Vector Machine, Logistic Regression, Decision Tree, and K-Nearest Neighbors model.
+- Tuned model parameters using cross-validation and predicted whether the first stage of a rocket launch will land successfully with an Area Under the Curve of 0.958 on the test set.
 
 </br>
 
