@@ -14,8 +14,7 @@ In this project, I'll collect and process raw data from a variety of sources, ex
 - Preprocessed and cleaned the data set to begin data exploration.
 
 ### [Exploratory Data Analysis with SQL](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%203:%20SQL%20EDA.ipynb)
-- Utilized Python's SQL extension to connect Jupyter notebook to IBM's DB2 cloud database.
-- Wrote SQL queries to explore, summarize, and gain insights from the data.
+- Queried IBM's DB2 cloud database using `sqlalchemy` to explore, summarize, and gain insights from the data.
 
 ### [Data Visualization EDA](https://github.com/kellibelcher/IBM-Data-Science-Capstone/blob/master/Lab%204:%20EDA%20Data%20viz.ipynb)
 - Explored the relationships between different sets of features in the data set using `matplotlib` and `seaborn` graphs.
