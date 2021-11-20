@@ -1,5 +1,13 @@
-# SpaceX Rocket Landing Predictive Analysis :rocket:
-![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffffff) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23130754.svg?logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F89939.svg?&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?&logo=plotly&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37725.svg?&logo=jupyter&logoColor=white)
+<h1 align="center">SpaceX Rocket Landing Predictive Analysis :rocket:</h1> 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&logo=numpy&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/pandas-%23130754.svg?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F89939.svg?&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-%23F37725.svg?&logo=jupyter&logoColor=white"/>
+</p> 
 
 ## Background 🌠
 SpaceX is a leading designer and manufacturer of advanced rockets and spacecraft. The company advertises Falcon 9 rocket launches on its website at a cost of $62 million, while other providers cost upwards of $165 million each. Much of the savings is because SpaceX can reuse the first stage of the launch. However, sometimes the first stage does not land and cannot be recovered. Therefore, if we can determine whether the first stage will land successfully, we can predict the cost of a launch.
