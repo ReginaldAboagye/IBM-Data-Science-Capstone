@@ -1,7 +1,12 @@
-<h1 align="center">SpaceX Rocket Landing Predictive Analysis :rocket:</h1> 
+![commits](https://img.shields.io/github/last-commit/kellibelcher/IBM-Data-Science-Capstone?label=Last%20Commit%20) 
+![files](https://img.shields.io/badge/Files-9-9489e8)
+![size](https://img.shields.io/github/repo-size/kellibelcher/IBM-Data-Science-Capstone?label=Repo%20Size%20)
+<h1 align="center">
+  SpaceX Rocket Landing Predictive Analysis :rocket:
+</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffffff" /> 
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&logo=numpy&logoColor=white"/> 
   <img src="https://img.shields.io/badge/pandas-%23130754.svg?logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F89939.svg?&logo=scikit-learn&logoColor=white"/>
